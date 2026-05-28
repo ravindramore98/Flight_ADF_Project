@@ -1,5 +1,9 @@
 ✈️ Flight Data Pipeline — Azure Data Factory
 
+![Azure](https://img.shields.io/badge/Azure-Data%20Factory-0078D4?logo=microsoftazure)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An end-to-end cloud data pipeline built with Azure Data Factory that ingests, transforms, and loads flight data into Azure Data Lake Storage Gen2 — ready for analytics and reporting.
 ---
 📌 Project Overview
